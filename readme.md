@@ -1,3 +1,3 @@
 ## Description
 
-This nexuscript actions sends an sms message via twilio
+This nexuscript action sends an sms message via twilio
