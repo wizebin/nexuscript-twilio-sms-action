@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "nexusdk": "github:wizebin/nexusdk",
-    "react-native-digest-fetch": "^1.0.4",
     "twilio": "^3.17.0"
   },
   "nexuscript": {
