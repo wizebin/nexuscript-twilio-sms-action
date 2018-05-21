@@ -31,6 +31,6 @@
     "category": "phone",
     "build_command": "npm run build",
     "dist_folder": "dist",
-    "dist_file": "dist/src/main.js"
+    "dist_file": "dist/main.js"
   }
 }
