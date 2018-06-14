@@ -22,12 +22,19 @@
     "author": "nexuscript",
     "price": "free",
     "configuration": {
-      "account_sid": "string",
-      "auth_token": "string",
-      "from": "string",
       "to": "string",
       "body": "string"
     },
+    "accounts": [{
+      "name": "Twilio",
+      "field_name": "twilio_account",
+      "type": "modal",
+      "fields": {
+        "account_sid": "string",
+        "auth_token": "string",
+        "from": "string"
+      }
+    }],
     "category": "phone",
     "build_command": "npm run build",
     "dist_folder": "dist",
