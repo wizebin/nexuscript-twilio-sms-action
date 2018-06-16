@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "nexusdk": "github:wizebin/nexusdk",
+    "objer": "^1.0.33",
     "twilio": "^3.17.3"
   },
   "nexuscript": {
